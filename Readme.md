@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Сергей Зубов](https://up.htmlacademy.ru/ecmascript/15/user/1290021).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Рябин](https://htmlacademy.ru/profile/haschish).
 
 ---
 
